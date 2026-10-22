@@ -1,4 +1,4 @@
-# Project Description
+# Project Descriptions
 
 This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
 
