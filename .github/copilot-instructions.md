@@ -1,11 +1,11 @@
-# Project Descriptions
+# Project Description
 
 This project is an educational website for sharing homework assignments and coding exercises with students. Students can browse, view, and download assignments directly from the portal.
 
 ## Project Structure
 
 - [`assignments/`](../assignments/) Each homework assignment is stored in its own subfolder with a consistent structure.
-- [`templates/`](../../templates/) Reusable templates for new content
+- [`templates/`](../templates/) Reusable templates for new content
 - [`assets/`](../assets/) Contains the website assets including CSS, JavaScript, images, and configuration files
 - [`index.html`](../index.html) The main website page that serves as a static portal for browsing and viewing assignments. Content is configurable via [`config.json`](../config.json) file to dynamically generate assignment lists and details.
 
